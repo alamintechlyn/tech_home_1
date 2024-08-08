@@ -1,0 +1,1166 @@
+@media (min-width: 1400px) {
+}
+
+@media(min-width:1200px) and (max-width:1399.98px){
+  /* header css start */
+  .vear-container{
+    width: 1100px !important;
+}
+/* header css end */
+
+/* banner css start */
+.bannerImg img {
+    width: 657.97px !important;
+    height: 695.32px !important;
+    margin-left: 37px !important;
+  }
+/* banner css end */
+  
+}
+
+
+@media(min-width:992px) and (max-width:1199.98px){
+ /* navbar css start */
+ .vear-container{
+    max-width: 960px;
+    /* navbar css end */
+}
+.headerIcon a i {
+    margin-left: 22px !important;
+}
+     .item1 img{
+    left: 48px !important;
+     }
+
+     .item2 img{
+    left: 147px !important;
+     }
+     .item3 img{
+    left: 247px !important;
+     }
+     .item4 img{
+    left: 343px !important;
+     }
+     .headerIcon {
+        margin-left: 34px !important;
+      }
+
+/* banner css start */
+.bannerImg img {
+    width: 489.97px !important;
+    height: auto !important;
+    margin-left: 84px !important;
+    margin-top: 5rem;
+  }
+
+  .bannerText img {
+    width: 960px !important;
+    height: auto !important;
+    margin-top: 3rem !important;
+  }
+
+
+
+/* banner css end */
+
+/* experience css start */
+.experienceRight h1 {
+    font-size: 300px !important;
+}
+.experienceRight h2 {
+    left: 42rem !important; 
+}
+/* experience css end */
+
+
+
+/* my Work css start */
+.workdownImg {
+    padding: 77px 14px !important;
+}
+.mw {
+    left: 21px !important;
+}
+/* my Work css end */
+
+
+
+
+}
+
+
+@media(min-width:768px) and (max-width:991.98px){
+
+ /* nav bar css start */
+ .vear-container {
+    max-width: 720px;
+  }
+  .navigation{
+    display: none;
+  }
+  .toggleBtn{
+    display: block !important;
+    cursor: pointer;
+  }
+
+
+  .toggleBtn {
+    display: block;
+}
+
+.navigation {
+    display: none;
+}
+
+.navigation.active {
+    display: block;
+    position: relative;
+    position: absolute;
+    left: 0;
+    top: 62%;
+    z-index: 999;
+}
+
+.headerIcon {
+    display: none;
+}
+
+.headerIcon.active {
+    display: block;
+    flex-direction: column;
+    
+}
+
+.navigation ul {
+    display: block !important;
+    background: #FF8059;
+    width: 45rem;
+    height: 303px;
+  }
+  .navigation ul li{
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 10px;
+    padding: 10px;
+    transition: all linear .3s;
+  }
+
+  .navigation ul li a{
+    color: #FFF !important;
+  }
+  .navigation ul li:hover{
+   background: rgba(60, 44, 64, 0.226);
+  }
+  .navigation ul li img{
+    display: none !important;
+  }
+.headerIcon {
+    position: absolute;
+    top: 324%;
+    left: 36%;
+    z-index: 999;
+}
+.headerIcon i:hover{
+    color: #3C2C40 !important;
+}
+.headerIcon a i {
+    color: #ffff !important;
+}
+
+.mainHeader{
+    position: relative;
+}
+
+
+.headerIcon {
+    margin-top: 90px !important;
+    margin-left: 23px !important;
+  }
+
+
+  .toggleBtn i{
+    position: absolute;
+    right: 4px;
+    top: 30px;
+    font-size: 28px;
+    color: #3C2C40;
+  }
+  .navigation ul li a {
+    margin-left: -7px !important;
+}
+   /* nav bar css end */
+
+/* banner css start */
+.mainBanner {
+    grid-template-columns: 100% !important;
+  }
+  .bannerImg img {
+    width: 717.97px !important;
+    height: auto !important;
+}
+.ux {
+    top: 40rem !important;
+  }
+
+.bannerText img {
+    width: 707px !important;
+    height: auto !important;
+  }
+
+  #Banner {
+    margin-top: 0 !important;
+  }
+/* banner css end */
+
+/* experience css start */
+.mainExperience {
+    grid-template-columns: 100% !important;
+  }
+
+  .experienceRight h2 {
+    left: 18rem !important;
+    top: 50rem !important;
+  }
+
+  .experienceRight h1 {
+    margin-left: 98px !important;
+    margin-top: 2rem !important;
+}
+/* experience css end */
+
+/* service part css start*/
+.downService {
+    grid-template-columns: 50% 50% !important;
+  }
+
+  .uiDesign {
+    width: 355px !important;
+    margin-bottom: 33px !important;
+  }
+/* service part css end*/
+
+
+
+/* my Work css start */
+.workdownImg {
+    padding: 77px 14px !important;
+}
+.mw {
+    left: 21px !important;
+}
+
+.mainMyWork {
+    grid-template-columns: 100% !important;
+  }
+.workdownImg img{
+    margin-left: 8rem;
+}
+
+/* my Work css end */
+
+}
+
+   
+
+@media (min-width: 576px) and (max-width: 767px) {
+        
+ /* nav bar css start */
+ .vear-container {
+    max-width: 540px;
+  }
+  .navigation{
+    display: none;
+  }
+  .toggleBtn{
+    display: block !important;
+    cursor: pointer;
+  }
+
+
+  .toggleBtn {
+    display: block;
+}
+
+.navigation {
+    display: none;
+}
+
+.navigation.active {
+    display: block;
+    position: relative;
+    position: absolute;
+    left: 0;
+    top: 62%;
+    z-index: 999;
+}
+
+.headerIcon {
+    display: none;
+}
+
+.headerIcon.active {
+    display: block;
+    flex-direction: column;
+    
+}
+
+.navigation ul {
+    display: block !important;
+    background: #FF8059;
+    width: 33.7rem;
+    height: 303px;
+  }
+  .navigation ul li{
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 10px;
+    padding: 10px;
+    transition: all linear .3s;
+  }
+
+  .navigation ul li a{
+    color: #FFF !important;
+  }
+  .navigation ul li:hover{
+   background: rgba(60, 44, 64, 0.226);
+  }
+  .navigation ul li img{
+    display: none !important;
+  }
+.headerIcon {
+    position: absolute;
+    top: 324%;
+    left: 36%;
+    z-index: 999;
+}
+.headerIcon i:hover{
+    color: #3C2C40 !important;
+}
+.headerIcon a i {
+    color: #ffff !important;
+}
+.mainHeader{
+    position: relative;
+}
+
+.navigation ul li a{
+    margin-left: 28px !important;
+}
+
+
+
+.headerIcon {
+    margin-top: 90px !important;
+    margin-left: 12px !important;
+  }
+
+
+  .toggleBtn i{
+    position: absolute;
+    right: 4px;
+    top: 30px;
+    font-size: 28px;
+    color: #3C2C40;
+  }
+   /* nav bar css end */
+
+   
+/* banner css start */
+.mainBanner {
+    grid-template-columns: 100% !important;
+  }
+  .bannerImg img {
+    width: 537.97px !important;
+    height: auto !important;
+  }
+.ux {
+    top: 40rem !important;
+  }
+
+.bannerText img {
+    width: 532px !important;
+    height: auto !important;
+  }
+
+  #Banner {
+    margin-top: 0 !important;
+  }
+/* banner css end */
+
+/* experience css start */
+.mainExperience {
+    grid-template-columns: 100% !important;
+  }
+
+  .experienceRight h2 {
+    left: 15rem !important;
+    top: 42rem !important;
+  }
+
+  .experienceRight h1 {
+    margin-left: 45px !important;
+    margin-top: -2rem !important;
+}
+/* experience css end */
+
+
+/* service part css start*/
+.downService {
+    grid-template-columns: 50% 50% !important;
+  }
+
+  .uiDesign {
+    width: 264px !important;
+    margin-bottom: 28px !important;
+  }
+/* service part css end*/
+
+
+/* my Work css start */
+.workdownImg {
+    padding: 77px 14px !important;
+}
+.mw {
+    left: 21px !important;
+}
+
+.mainMyWork {
+    grid-template-columns: 100% !important;
+  }
+.workdownImg img{
+    margin-left: 2rem;
+}
+
+/* my Work css end */
+
+
+}
+
+@media (min-width: 520px) and (max-width: 575.98px) { 
+        
+ /* nav bar css start */
+ .vear-container {
+    max-width: 420px;
+  }
+  .navigation{
+    display: none;
+  }
+  .toggleBtn{
+    display: block !important;
+    cursor: pointer;
+  }
+
+
+  .toggleBtn {
+    display: block;
+}
+
+.navigation {
+    display: none;
+}
+
+.navigation.active {
+    display: block;
+    position: relative;
+    position: absolute;
+    left: 0;
+    top: 62%;
+    z-index: 999;
+}
+
+.headerIcon {
+    display: none;
+}
+
+.headerIcon.active {
+    display: block;
+    flex-direction: column;
+    
+}
+
+.navigation ul {
+    display: block !important;
+    background: #FF8059;
+    width: 419px;
+    height: 303px;
+  }
+  .navigation ul li{
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 10px;
+    padding: 10px;
+    transition: all linear .3s;
+  }
+  .navigation ul li a{
+    color: #FFF !important;
+    margin-left: 28px !important;
+  }
+  .navigation ul li:hover{
+    background: rgba(60, 44, 64, 0.226);
+  }
+  .navigation ul li img{
+    display: none !important;
+  }
+.headerIcon {
+    position: absolute;
+    top: 324%;
+    left: 36%;
+    z-index: 999;
+}
+.headerIcon i:hover{
+    color: #000 !important;
+}
+
+.headerIcon a i {
+    color: #ffff !important;
+}
+
+.mainHeader{
+    position: relative;
+}
+
+
+.headerIcon {
+    margin-top: 90px !important;
+    margin-left: 0px !important;
+  }
+
+
+  .toggleBtn i{
+    position: absolute;
+    right: 4px;
+    top: 30px;
+    font-size: 28px;
+    color: #3C2C40;
+  }
+  .ux img{
+    display: none;
+  }
+  
+  .headerImg img {
+    width: 206px !important;
+}
+
+   /* nav bar css end */
+   
+
+
+   
+/* banner css start */
+.mainBanner {
+    grid-template-columns: 100% !important;
+  }
+  .bannerImg img {
+    width: 348.97px !important;
+    height: auto !important;
+  }
+.ux {
+    top: 40rem !important;
+  }
+
+.bannerText img {
+    width: 532px !important;
+    height: auto !important;
+  }
+
+  #Banner {
+    margin-top: 0 !important;
+  }
+
+  .bannerText h3 {
+    font-size: 70px !important;
+    margin-top: 9rem !important;
+    line-height: 84px !important;
+}
+.bannerText h2 {
+    font-size: 70px !important;
+    margin-top: 9rem !important;
+    line-height: 84px !important;
+}
+
+.bannerText p {
+    margin-top: 23rem !important;
+  }
+  .commonP p{
+    color: #3C2C40;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    font-family: "Inter", sans-serif;
+    margin-top: 18px;
+}
+
+
+/* banner css end */
+
+
+/* experience css start */
+.mainExperience {
+    grid-template-columns: 100% !important;
+  }
+
+  .experienceRight h2 {
+    font-size: 32px !important;
+    left: 8rem !important;
+    top: 47rem !important;
+    line-height: 40px !important;
+  }
+
+  .experienceRight h1 {
+    font-size: 150px !important;
+    margin-left: 8px !important;
+    margin-top: -2rem !important;
+}
+/* experience css end */
+
+
+#figma::after{
+    width: 50% !important;
+}
+#figma::before{
+    width: 50% !important;
+}
+#photoshop::after{
+    width: 50% !important;
+}
+#photoshop::before{
+    width: 50% !important;
+}
+#xd::after{
+    width: 250px !important;
+}
+#xd::before{
+    width: 270px !important;
+}
+#invision::after{
+    width: 270px !important;
+}
+#invision::before{
+    width: 225px !important;
+}
+
+/* experience css end */
+
+
+/* service part css start*/
+.downService {
+    grid-template-columns: 100% !important;
+  }
+
+  .uiDesign {
+    width: 342px !important;
+    margin-bottom: 28px !important;
+  }
+/* service part css end*/
+
+/* my Work css start */
+.workdownImg {
+    padding: 77px 14px !important;
+}
+.mw {
+    left: 21px !important;
+}
+
+.mainMyWork {
+    grid-template-columns: 100% !important;
+  }
+.workdownImg img{
+    margin-left: 8rem;
+}
+
+
+.workdownImg img {
+    margin-left: 0;
+    width: 318px;
+  }
+/* my Work css end */
+
+
+}
+
+
+
+@media (min-width: 370px) and (max-width: 520.98px) {
+     
+ /* nav bar css start */
+ .vear-container {
+    max-width: 350px;
+    margin: auto !important;
+  }
+  .navigation{
+    display: none;
+  }
+  .toggleBtn{
+    display: block !important;
+    cursor: pointer;
+  }
+
+
+  .toggleBtn {
+    display: block;
+}
+
+.navigation {
+    display: none;
+}
+.headerImg img {
+    width: 214px !important;
+  }
+
+.navigation.active {
+    display: block;
+    position: relative;
+    position: absolute;
+    left: 0;
+    top: 62%;
+    z-index: 999;
+}
+
+.headerIcon {
+    display: none;
+}
+
+.headerIcon.active {
+    display: block;
+    flex-direction: column;
+    
+}
+
+.navigation ul {
+    display: block !important;
+    background: #FF8059;
+    width: 348px;
+    height: 303px;
+  }
+  .navigation ul li{
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 10px;
+    padding: 10px;
+    transition: all linear .3s;
+  }
+
+  .navigation ul li a{
+    color: #ffff !important;
+    margin-left: 2px !important;
+  }
+  .navigation ul li:hover{
+    background: rgba(60, 44, 64, 0.226);
+  }
+  .navigation ul li img{
+    display: none !important;
+  }
+.headerIcon {
+    position: absolute;
+    top: 324%;
+    left: 36%;
+    z-index: 999;
+}
+.headerIcon i:hover{
+    color: #000 !important;
+}
+.headerIcon i{
+    color: #ffff !important;
+}
+
+.mainHeader{
+    position: relative;
+}
+
+.headerIcon {
+    margin-top: 90px !important;
+    margin-left: -28px !important;
+  }
+
+
+  .toggleBtn i{
+    position: absolute;
+    right: 4px;
+    top: 30px;
+    font-size: 28px;
+    color: #3C2C40;
+  }
+   /* nav bar css end */
+
+    
+/* banner css start */
+.mainBanner {
+    grid-template-columns: 100% !important;
+  }
+  .bannerImg img {
+    width: 348.97px !important;
+    height: auto !important;
+  }
+.ux {
+    top: 40rem !important;
+  }
+
+.bannerText img {
+    width: 351px !important;
+    height: auto !important
+}
+
+  #Banner {
+    margin-top: 0 !important;
+  }
+
+  .bannerText h3 {
+    font-size: 70px !important;
+    margin-top: 9rem !important;
+    line-height: 84px !important;
+}
+.bannerText h2 {
+    font-size: 70px !important;
+    margin-top: 9rem !important;
+    line-height: 84px !important;
+}
+
+.bannerText p {
+    margin-top: 23rem !important;
+  }
+  .commonP p{
+    color: #3C2C40;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    font-family: "Inter", sans-serif;
+    margin-top: 18px;
+}
+/* banner css end */
+
+
+/* experience css start */
+.mainExperience {
+    grid-template-columns: 100% !important;
+  }
+
+  .experienceRight h2 {
+    font-size: 32px !important;
+    left: 8rem !important;
+    top: 47rem !important;
+    line-height: 40px !important;
+  }
+
+  .experienceRight h1 {
+    font-size: 150px !important;
+    margin-left: 8px !important;
+    margin-top: -2rem !important;
+}
+/* experience css end */
+
+
+#figma::after{
+    width: 50% !important;
+}
+#figma::before{
+    width: 50% !important;
+}
+#photoshop::after{
+    width: 50% !important;
+}
+#photoshop::before{
+    width: 50% !important;
+}
+#xd::after{
+    width: 250px !important;
+}
+#xd::before{
+    width: 270px !important;
+}
+#invision::after{
+    width: 270px !important;
+}
+#invision::before{
+    width: 225px !important;
+}
+/* experience css end */
+
+/* service part css start*/
+.downService {
+    grid-template-columns: 100% !important;
+  }
+
+  .uiDesign {
+    width: 342px !important;
+    margin-bottom: 28px !important;
+  }
+/* service part css end*/
+
+/* my Work css start */
+.workdownImg {
+    padding: 77px 14px !important;
+}
+.mw {
+    left: 21px !important;
+}
+
+.mainMyWork {
+    grid-template-columns: 100% !important;
+  }
+.workdownImg img{
+    margin-left: 8rem;
+}
+
+
+.workdownImg img {
+    margin-left: 0;
+    width: 318px;
+  }
+  .mainService {
+    grid-template-columns:100% !important;
+  }
+
+
+  .commonHeading h2 {
+    font-size: 26px !important;
+  }
+/* my Work css end */
+
+}
+
+@media (max-width: 369.98px) {
+    /* nav bar css start */
+ .vear-container {
+    max-width: 320px;
+  }
+  .navigation{
+    display: none;
+  }
+  .toggleBtn{
+    display: block !important;
+    cursor: pointer;
+  }
+
+
+  .toggleBtn {
+    display: block;
+}
+
+.navigation {
+    display: none;
+}
+
+.navigation.active {
+    display: block;
+    position: relative;
+    position: absolute;
+    left: 0;
+    top: 62%;
+    z-index: 999;
+}
+
+.headerIcon {
+    display: none;
+}
+
+.headerIcon.active {
+    display: block;
+    flex-direction: column;
+    
+}
+.headerImg img {
+    width: 214px !important;
+  }
+.navigation ul {
+    display: block !important;
+    background: #FF8059;
+    width: 320px;
+    height: 303px;
+  }
+  .navigation ul li{
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 10px;
+    padding: 10px;
+    transition: all linear .3s;
+  }
+
+  .navigation ul li a{
+    color: #fff !important;
+    margin-left: 2px !important;
+  }
+  .navigation ul li:hover{
+    background: rgba(60, 44, 64, 0.226);
+  }
+  .navigation ul li img{
+    display: none !important;
+  }
+.headerIcon {
+    position: absolute;
+    top: 324%;
+    left: 36%;
+    z-index: 999;
+}
+.headerIcon i:hover{
+    color: #000 !important;
+}
+.headerIcon i{
+    color: #ffff !important;
+}
+
+.mainHeader{
+    position: relative;
+}
+
+
+.headerIcon {
+    margin-top: 90px !important;
+    margin-left: -28px !important;
+  }
+
+
+  .toggleBtn i{
+    position: absolute;
+    right: 4px;
+    top: 30px;
+    font-size: 28px;
+    color: #3C2C40;
+  }
+   /* nav bar css end */
+
+
+/* banner css start */
+.mainBanner {
+    grid-template-columns: 100% !important;
+  }
+  .bannerImg img {
+    width: 319.97px !important;
+    height: auto !important;
+  }
+.ux {
+    top: 40rem !important;
+  }
+
+.bannerText img {
+    width: 319px !important;
+    height: auto !important
+}
+
+  #Banner {
+    margin-top: 0 !important;
+  }
+
+  .bannerText h3 {
+    font-size: 64px !important;
+    margin-top: 9rem !important;
+    line-height: 84px !important;
+}
+.bannerText h2 {
+    font-size: 64px !important;
+    margin-top: 9rem !important;
+    line-height: 84px !important;
+}
+
+.bannerText p {
+    margin-top: 23rem !important;
+  }
+  .commonP p{
+    color: #3C2C40;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    font-family: "Inter", sans-serif;
+    margin-top: 18px;
+}
+
+
+/* banner css end */
+
+
+/* experience css start */
+.mainExperience {
+    grid-template-columns: 100% !important;
+  }
+
+  .experienceRight h2 {
+    font-size: 32px !important;
+    left: 7rem !important;
+    top: 50rem !important;
+    line-height: 40px !important
+  }
+
+  .experienceRight h1 {
+    font-size: 150px !important;
+    margin-left: 8px !important;
+    margin-top: -2rem !important;
+}
+
+
+
+#figma::after{
+    width: 50% !important;
+}
+#figma::before{
+    width: 50% !important;
+}
+#photoshop::after{
+    width: 50% !important;
+}
+#photoshop::before{
+    width: 50% !important;
+}
+#xd::after{
+    width: 250px !important;
+}
+#xd::before{
+    width: 270px !important;
+}
+#invision::after{
+    width: 270px !important;
+}
+#invision::before{
+    width: 225px !important;
+}
+
+/* experience css end */
+
+/* service part css start*/
+.downService {
+    grid-template-columns: 100% !important;
+  }
+
+  .uiDesign {
+    width: 342px !important;
+    margin-bottom: 28px !important;
+  }
+/* service part css end*/
+
+/* my Work css start */
+.workdownImg {
+    padding: 27px 13px !important;
+}
+.mw {
+    left: 21px !important;
+}
+
+.mainMyWork {
+    grid-template-columns: 100% !important;
+  }
+.workdownImg img{
+    margin-left: 8rem;
+}
+
+
+.workdownImg img {
+    margin-left: 0;
+    width: 292px;
+  }
+
+  .mainService {
+    grid-template-columns:100% !important;
+  }
+
+/* my Work css end */
+
+/* common css start */
+
+.commonHeading h2 {
+    font-size: 26px !important;
+  }
+/* common css end */
+
+}
+
+
+
+
